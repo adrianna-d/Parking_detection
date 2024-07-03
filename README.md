@@ -63,7 +63,8 @@ The system processes a video feed of a parking lot, identifying whether each par
 
 - **parking_spot_detection.py:** Main script for detecting and classifying parking spots.
 - **requirements.txt:** List of Python dependencies.
-- **output_video.mp4:** Example output video demonstrating the detected parking spots.
+- **parking_1920_1080.mp4:** Example input video
+- **mask_1920_1080** - Mask for the project
 - **project_presentation** - .pdf of what was done for the project
 
 ## License
