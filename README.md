@@ -28,7 +28,7 @@ The system processes a video feed of a parking lot, identifying whether each par
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/parking_project.git
+   git clone https://github.com/adrianna-d/Parking_detection.git
    cd parking_project
    ```
 
